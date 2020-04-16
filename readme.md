@@ -1,6 +1,6 @@
 # Luciano Tomas Aimaretti
 ___
-
+![Foto Presentacion](https://github.com/pdep-utn-frd/presentacion-LucianoAimaretti/blob/master/Foto.jpg?raw=true)
 ___
 ### Legajo N° 11001
 ___
